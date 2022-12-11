@@ -16,6 +16,7 @@ body {
     background-image: url(../images/gradienta-tHtZo3FLhPc-unsplash.jpg);
   color: white;
   padding-left: 20px;
+  background-size: 2500px;
 }
 .container img {
 height: 25vh;
@@ -41,6 +42,7 @@ padding-left: 50px;
 }
 .card{
     border: solid blue 3px;
+   
 }
     
 
@@ -54,3 +56,19 @@ padding-left: 50px;
 font-style: italic;
 color: white;
 }
+.lorem{
+    color: white;
+    padding: 20px;
+    
+}
+.flex-container{
+    display: flex;
+    background-color:blue;
+    justify-content: center;
+    align-items: sp;
+   
+  }
+ .call:hover{
+background-color: yellow;
+ }
+ 
