@@ -1,0 +1,56 @@
+*{
+   box-sizing: border-box;
+  
+    
+}
+body {
+    background-color: black;
+    margin: 0;
+    
+}
+
+.jumbotron {
+    width: 100%;
+    height:50vh;
+    background-repeat: no-repeat;
+    background-image: url(../images/gradienta-tHtZo3FLhPc-unsplash.jpg);
+  color: white;
+  padding-left: 20px;
+}
+.container img {
+height: 25vh;
+width: 15vw;
+padding-left: 50px;
+}
+
+.container-fluid{
+    padding-top: 100px;
+  
+   
+}
+.card-text {
+    color: black;
+}
+.subheading{
+    color: white;
+    padding-left: 20px;
+}
+.learn {
+    padding-left: 20px;
+    color: white;
+}
+.card{
+    border: solid blue 3px;
+}
+    
+
+#contact{
+    
+    text-decoration: none;
+    padding-left: 20px;
+    
+  }
+#contact h3{
+font-style: italic;
+color: white;
+}
