@@ -54,6 +54,8 @@ In this task I used bootstrap to build my website. I used bootstrap tools such a
 ## Deployment
 If you would like to see the finished website please click on the link below
 
+https://lidiabhogal.github.io/Bootstrap-Portfolio/
+
 
 
 ## License
